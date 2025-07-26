@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python -m app.seed
 uvicorn app.main:app --reload
 
-API Endpoints & cURL Examples
+## API Endpoints & cURL Examples
 
 1. List Classes
 Endpoint: GET /classes
